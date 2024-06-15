@@ -1,5 +1,4 @@
-# window_to_front_github_desktop
-
+# Window To Front Desktop Linux Plugin
 A new Flutter plugin project.
 
 ## Getting Started
